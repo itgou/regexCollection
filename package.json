@@ -2,7 +2,7 @@
   "name": "regex",
   "version": "1.0.0",
   "description": "",
-  "main": "regex.js",
+  "main": "regexCollection.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --color"
